@@ -1,2 +1,2 @@
-# Python-Ques-
+# Python-Ques.
 Python questions for practice.
